@@ -1,0 +1,6 @@
+bin/
+obj/
+**/package.config*
+**/appsettings.json*
+Assets/
+packages/

@@ -1,0 +1,10 @@
+﻿{
+  "command": "echo foo", 
+  "local": [
+    "test.txt",
+    "test321.txt"
+  ],
+  "exact": [
+
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "command": "type CanBeDeleted.txt", 
+  "local": [
+	"CanBeDeleted.txt"
+  ],
+  "exact": [
+
+  ]
+}
