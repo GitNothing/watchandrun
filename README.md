@@ -8,10 +8,10 @@ This is a NodeJS script that is use to execute CMD commands with working directo
 <p>2) Run "node Runscript.js" from terminal.</p>
 
 ```javascript
-const { exec } = require('child_process');
+const { spawn } = require('child_process');
 
 //Code
-const run = (command, workingDir)=>{
+const run = (command, workingDir, ignoreErr)=>{
 ...
 }
 
